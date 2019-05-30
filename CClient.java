@@ -19,7 +19,7 @@ public class CClient
         }
         catch(Exception e)
         {
-            System.out.print("Whoops! It didn't work!:");
+            System.out.print("Error :(");
             System.out.print(e.getLocalizedMessage());
             System.out.print("\n");
         }
